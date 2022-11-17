@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#8a0a4e"
+backgroundColor = "#d5d5d0"     #white bkg
+secondaryBackgroundColor = "#edf9d2"    #box bkg light green
+textColor = "#0510F4"    #blue
+font = "monospace"
